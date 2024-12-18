@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Ye Yuan**, Yanxia Wu*, Pengming Feng, Yan Fu, Yulei Wu
 
-- We propose a segmentation-guided semantic-aware self-supervised denoising method for SAR images, namely, SARDeSeg, where a segmentation network is incorporated with a denoising network and guides it to learn and be aware of the semantic information of the input noisy SAR images. In addition, a wavelet transformbased connector is introduced to efficiently transmit semantic information between the denoising network and the segmentation network, together with an edge-aware smoothing loss to improve speckle noise suppression while preserving edge features. The experimental results demonstrate that the proposed SARDeSeg outperforms state-of-the-art (SOTA) denoising methods for SAR images, particularly in preserving detailed edge features.
+- We propose a segmentation-guided semantic-aware self-supervised denoising method for SAR images, namely, SARDeSeg, where a segmentation network is incorporated with a denoising network and guides it to learn and be aware of the semantic information of the input noisy SAR images. The proposed SARDeSeg outperforms state-of-the-art (SOTA) denoising methods for SAR images, particularly in preserving detailed edge features.
 </div>
 </div>
 
