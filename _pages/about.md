@@ -24,7 +24,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2019.07*: &nbsp;🎉🎉 One paper for small-scale ship classification in SAR images has been accepted by IEEE TGRS ([link](https://ieeexplore.ieee.org/abstract/document/8897831)!
+- *2019.07*: &nbsp;🎉🎉 One paper for small-scale ship classification in SAR images has been accepted by **IEEE IGARSS 2019** ([link](https://ieeexplore.ieee.org/abstract/document/8897831))!
 
 # 📝 Research Spotlight 
 
