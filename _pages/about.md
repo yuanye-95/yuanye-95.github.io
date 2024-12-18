@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 New stage of career! I joined the College of Computer and Control Engineering at **Northeast Forestry University**!
-  *2024.10*: &nbsp;🎉🎉 One journal paper about oriented remote sensing object detection has been accepted by **IEEE JSTARS** ([link](https://ieeexplore.ieee.org/document/10745646))!
+- *2024.10*: &nbsp;🎉🎉 One journal paper about oriented remote sensing object detection has been accepted by **IEEE JSTARS** ([link](https://ieeexplore.ieee.org/document/10745646))!
 - *2024.04*: &nbsp;🎉🎉 One conference paper about unpaired image despeckling has been accepted by **IEEE ICME 2024** ([link](https://ieeexplore.ieee.org/document/10687879))!
 - *2024.04*: &nbsp;🎉🎉 One conference paper about adversarial attack for SAM has been accepted by **IEEE ICME 2024** ([link](https://ieeexplore.ieee.org/document/10687491))!
 - *2023.12*: &nbsp;🎉🎉 Completed the defense of my PhD thesis (**Research on deep learning based denoising methods for SAR images**) and **received my PhD degree**!
