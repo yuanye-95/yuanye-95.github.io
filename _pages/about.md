@@ -18,13 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a Associate Professor in the College of Computer and Control Engineering, Northeast Forestry University, where I worked on deep learning-based image processing methods and vision applications for remote sensing. I received my Ph.D. from College of Computer Science and Technology, Harbin Engineering University, China in December 2023, advised by Prof. Wu Yanxia. Before that, I received my B.E. from College of Computer Science and Technology, Harbin Engineering University in June 2017.
 
-
-Before that, I received a B.S. degree in 
-Computer Science and Technology from Ocean University of China, Qingdao, China, in 2022. I am currently working toward an M.S. degree in Information and Telecommunication Engineering at the School of Electronics and Information, Northwestern Polytechnical University, Xi’an, China.
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
@@ -33,6 +26,17 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Research Spotlight 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2023</div><img src='images/IEEE_TGRS_2023_SARDeSeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Segmentation-Guided Semantic-Aware Self-Supervised Denoising for SAR Image](https://ieeexplore.ieee.org/document/10285521)
+
+**Ye Yuan**, Yanxia Wu*, Pengming Feng, Yan Fu, Yulei Wu
+
+- We propose a segmentation-guided semantic-aware self-supervised denoising method for SAR images, namely, SARDeSeg, where a segmentation network is incorporated with a denoising network and guides it to learn and be aware of the semantic information of the input noisy SAR images. In addition, a wavelet transformbased connector is introduced to efficiently transmit semantic information between the denoising network and the segmentation network, together with an edge-aware smoothing loss to improve speckle noise suppression while preserving edge features. The experimental results demonstrate that the proposed SARDeSeg outperforms state-of-the-art (SOTA) denoising methods for SAR images, particularly in preserving detailed edge features.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
