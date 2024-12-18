@@ -48,6 +48,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+- [Joint Convolutional Neural Network for Small-Scale Ship Classification in SAR Images](https://ieeexplore.ieee.org/document/8897831), Yanxia Wu; ** Ye Yuan* **, Jian Guan, Libo Yin, Jinyong Chen, Ge Zhang, Pengming Feng. **IEEE IGARSS 2019**
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
