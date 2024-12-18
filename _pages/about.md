@@ -22,9 +22,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2019.07*: &nbsp;🎉🎉 One paper for small-scale ship classification in SAR images has been accepted by **IEEE IGARSS 2019** ([link](https://ieeexplore.ieee.org/abstract/document/8897831))!
+- *2024.12*: &nbsp;🎉🎉 New stage of career! I joined the College of Computer and Control Engineering at **Northeast Forestry University**!
+  *2024.10*: &nbsp;🎉🎉 One journal paper about oriented remote sensing object detection has been accepted by **IEEE JSTARS** ([link](https://ieeexplore.ieee.org/document/10745646))!
+- *2024.04*: &nbsp;🎉🎉 One conference paper about unpaired image despeckling has been accepted by **IEEE ICME 2024** ([link](https://ieeexplore.ieee.org/document/10687879))!
+- *2024.04*: &nbsp;🎉🎉 One conference paper about adversarial attack for SAM has been accepted by **IEEE ICME 2024** ([link](https://ieeexplore.ieee.org/document/10687491))!
+- *2023.12*: &nbsp;🎉🎉 Completed the defense of my PhD thesis (**Research on deep learning based denoising methods for SAR images**) and **received my PhD degree**!
+- *2023.09*: &nbsp;🎉🎉 One journal paper about self-supervised SAR image denoising has been accepted by **IEEE TGRS** ([link](https://ieeexplore.ieee.org/document/10285521))!
 
 # 📝 Research Spotlight 
 
