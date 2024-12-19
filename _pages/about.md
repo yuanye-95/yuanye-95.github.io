@@ -60,10 +60,10 @@ Yan Jiang; Guisheng Yin; **Ye Yuan** *; Jingjing Chen; Zhipeng Wei
 
 - Xue Zhang, Yanxia Wu*, Guoyin Zhang, **Ye Yuan**, Guangliang Cheng and Yulei Wu, "Shape-Dependent Dynamic Label Assignment for Oriented Remote Sensing Object Detection," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 132-146, 2025. [[link](https://ieeexplore.ieee.org/document/10745646/authors#authors)]
 
-#2024
+# 2024
 
 - Xu Wang, Yanxia Wu, Changting Shi*, **Ye Yuan** and Xue Zhang, "ANED-Net: Adaptive Noise Estimation and Despeckling Network for SAR Image," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 4036-4051, 2024. [[link](https://ieeexplore.ieee.org/document/10401972)]
-- Yan Jiang, Guisheng Yin, Weipeng Jing, Linda Mohaisen, Mahmoud Emam and **Ye Yuan***, "Box-spoof attack against single object tracking," Applied Intelligence, vol. 54, pp. 1585-1601, 2024. [[link](https://link.springer.com/article/10.1007/s10489-023-05264-2)]
+- Yan Jiang, Guisheng Yin, Weipeng Jing, Linda Mohaisen, Mahmoud Emam and **Ye Yuan***, "Box-Spoof Attack Against Single Object Tracking," Applied Intelligence, vol. 54, no. 2, pp. 1585-1601, 2024. [[link](https://link.springer.com/article/10.1007/s10489-023-05264-2)]
 
 
 # 🎖 Honors and Awards
