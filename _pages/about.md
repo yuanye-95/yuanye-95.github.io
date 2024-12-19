@@ -78,11 +78,13 @@ Yan Jiang; Guisheng Yin; **Ye Yuan** *; Jingjing Chen; Zhipeng Wei
 
 # 2021
 
-- **Ye Yuan**, Yan Jiang, Yanxia Wu and Richard Jiang, "Self-Calibrated Convolutional Neural Network for SAR Image Despeckling," in Proceddings of IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021, pp. 399-402. [[link](https://ieeexplore.ieee.org/document/9554769)]
 - **Ye Yuan**, Yanxia Wu*, Yan Fu, Yulei Wu,L idan Zhang and Yan Jiang, "An Advanced SAR Image Despeckling Method by Bernoulli-Sampling-Based Self-Supervised Deep Learning," Remote Sensing, vol. 13, no. 18, pp. 3636, 2021. [[link](https://www.mdpi.com/2072-4292/13/18/3636)]
+- **Ye Yuan**, Yan Jiang, Yanxia Wu and Richard Jiang, "Self-Calibrated Convolutional Neural Network for SAR Image Despeckling," in Proceddings of IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021, pp. 399-402. [[link](https://ieeexplore.ieee.org/document/9554769)]
 
 # 2020 and before
 
+- Yanxia Wu*, **Ye Yuan**, Jian Guan, Libo Yin, Jinyong Chen and Ge Zhang, "Joint Convolutional Neural Network for Small-Scale Ship Classification in SAR Images," in Proceedings of IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2019, pp. 2619-2622. [[link](https://ieeexplore.ieee.org/document/8897831)]
+- **Ye Yuan**, Shouzheng Li, Xingjian Zhang and Jianguo Sun, "A Comparative Analysis of SVM, Naive Bayes and GBDT for Data Faults Detection in WSNs," in Proceedings of IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2018, pp. 394-399. [[link](https://ieeexplore.ieee.org/document/8432003)]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
