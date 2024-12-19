@@ -29,6 +29,16 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.12*: &nbsp;🎉🎉 Completed the defense of my PhD thesis (**Research on deep learning based denoising methods for SAR images**) and **received my PhD degree**!
 - *2023.09*: &nbsp;🎉🎉 One journal paper about self-supervised SAR image denoising has been accepted by **IEEE TGRS** ([link](https://ieeexplore.ieee.org/document/10285521))!
 
+  
+# 📖 Experience
+- *2024.12 - now*, Associate Professor, College of Computer and Control Engineering, Northeast Forestry University
+
+
+- *2018.09 - 2023.12*, Ph.D, College of Computer Science and Technology, Harbin Engineering University
+- *2017.09 - 2018.06*, M.S. transfer to Ph.D, College of Computer Science and Technology, Harbin Engineering University
+- *2013.09 - 2017.06*, B.S., College of Computer Science and Technology, Harbin Engineering University
+
+  
 # 📝 Research Spotlight 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2023</div><img src='images/IEEE_TGRS_2023_SARDeSeg.png' alt="sym" width="100%"></div></div>
@@ -89,14 +99,6 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Education and Work Experience
-- *2024.12 - now*, Associate Professor, College of Computer and Control Engineering, Northeast Forestry University
-
-
-- *2018.09 - 2023.12*, Ph.D, College of Computer Science and Technology, Harbin Engineering University
-- *2017.09 - 2018.06*, M.S. transfer to Ph.D, College of Computer Science and Technology, Harbin Engineering University
-- *2013.09 - 2017.06*, B.S., College of Computer Science and Technology, Harbin Engineering University
 
 # 📑 Service
 Invited Reviewer for conferences:
