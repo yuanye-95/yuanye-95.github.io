@@ -58,10 +58,13 @@ Yan Jiang; Guisheng Yin; **Ye Yuan** *; Jingjing Chen; Zhipeng Wei
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 📖 Education and Work Experience
+- *2024.12 - now*, Associate Professor, College of Computer and Control Engineering, Northeast Forestry University
+
 - *2018.09 - 2023.12*, Ph.D, College of Computer Science and Technology, Harbin Engineering University
 - *2017.09 - 2018.06*, M.S. transfer to Ph.D, College of Computer Science and Technology, Harbin Engineering University
 - *2013.09 - 2017.06*, B.S., College of Computer Science and Technology, Harbin Engineering University
+- 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
