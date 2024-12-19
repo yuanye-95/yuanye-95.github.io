@@ -58,14 +58,14 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 
 # 2025
 
-- Xue Zhang, Yanxia Wu, Guoyin Zhang, **Ye Yuan\* **, Guangliang Cheng and Yulei Wu, "Shape-Dependent Dynamic Label Assignment for Oriented Remote Sensing Object Detection," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 18, pp. 132-146, 2025. [[link](https://ieeexplore.ieee.org/document/10745646/authors#authors)] <span style="color:blue">[JCR Q1, 中科院二区 Top, IF: 4.7]</span>
+- Xue Zhang, Yanxia Wu, Guoyin Zhang, **Ye Yuan**\*, Guangliang Cheng and Yulei Wu, "Shape-Dependent Dynamic Label Assignment for Oriented Remote Sensing Object Detection," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 18, pp. 132-146, 2025. [[link](https://ieeexplore.ieee.org/document/10745646/authors#authors)] <span style="color:blue">[JCR Q1, 中科院二区 Top, IF: 4.7]</span>
 
 # 2024
 
-- Xu Wang, Yanxia Wu, **Ye Yuan\* **, Yan Fu and Xue Zhang, "Unpaired Image Despeckling Based on Adversarial Speckle Generation," in *Proceedings of IEEE International Conference on Multimedia and Expo (ICME)*, 2024, pp. 1-6. [[link](https://ieeexplore.ieee.org/document/10687879)] <span style="color:blue">[CCF-B会议]</span>
-- Yan Jiang, Guisheng Yin, **Ye Yuan\* **, Jingjing Chen and Zhipeng Wei, "Cross-Point Adversarial Attack Based on Feature Neighborhood Disruption Against Segment Anything Model," in *Proceedings of IEEE International Conference on Multimedia and Expo (ICME)*, 2024, pp. 1-6. [[link](https://ieeexplore.ieee.org/document/10687491)] <span style="color:blue">[CCF-B会议]</span>
+- Xu Wang, Yanxia Wu, **Ye Yuan**\*, Yan Fu and Xue Zhang, "Unpaired Image Despeckling Based on Adversarial Speckle Generation," in *Proceedings of IEEE International Conference on Multimedia and Expo (ICME)*, 2024, pp. 1-6. [[link](https://ieeexplore.ieee.org/document/10687879)] <span style="color:blue">[CCF-B会议]</span>
+- Yan Jiang, Guisheng Yin, **Ye Yuan**\*, Jingjing Chen and Zhipeng Wei, "Cross-Point Adversarial Attack Based on Feature Neighborhood Disruption Against Segment Anything Model," in *Proceedings of IEEE International Conference on Multimedia and Expo (ICME)*, 2024, pp. 1-6. [[link](https://ieeexplore.ieee.org/document/10687491)] <span style="color:blue">[CCF-B会议]</span>
 - Xu Wang, Yanxia Wu, Changting Shi\*, **Ye Yuan** and Xue Zhang, "ANED-Net: Adaptive Noise Estimation and Despeckling Network for SAR Image," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 17, pp. 4036-4051, 2024. [[link](https://ieeexplore.ieee.org/document/10401972)] <span style="color:blue">[JCR Q1, 中科院二区 Top, IF: 4.7]</span>
-- Yan Jiang, Guisheng Yin, Weipeng Jing, Linda Mohaisen, Mahmoud Emam and **Ye Yuan\* **, "Box-Spoof Attack Against Single Object Tracking," *Applied Intelligence*, vol. 54, no. 2, pp. 1585-1601, 2024. [[link](https://link.springer.com/article/10.1007/s10489-023-05264-2)] <span style="color:blue">[JCR Q2, 中科院二区, CCF-C, IF: 3.4]</span>
+- Yan Jiang, Guisheng Yin, Weipeng Jing, Linda Mohaisen, Mahmoud Emam and **Ye Yuan**\*, "Box-Spoof Attack Against Single Object Tracking," *Applied Intelligence*, vol. 54, no. 2, pp. 1585-1601, 2024. [[link](https://link.springer.com/article/10.1007/s10489-023-05264-2)] <span style="color:blue">[JCR Q2, 中科院二区, CCF-C, IF: 3.4]</span>
   
 # 2023
 
@@ -84,7 +84,7 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 # 2020 and before
 
 - Yanxia Wu\*, **Ye Yuan**, Jian Guan, Libo Yin, Jinyong Chen and Ge Zhang, "Joint Convolutional Neural Network for Small-Scale Ship Classification in SAR Images," in *Proceedings of IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2019, pp. 2619-2622. [[link](https://ieeexplore.ieee.org/document/8897831)] <span style="color:blue">[EI会议]</span>
-- **Ye Yuan\* **, Shouzheng Li, Xingjian Zhang and Jianguo Sun, "A Comparative Analysis of SVM, Naive Bayes and GBDT for Data Faults Detection in WSNs," in *Proceedings of IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C)*, 2018, pp. 394-399. [[link](https://ieeexplore.ieee.org/document/8432003)] <span style="color:blue">[CCF-B会议]</span>
+- **Ye Yuan**\*, Shouzheng Li, Xingjian Zhang and Jianguo Sun, "A Comparative Analysis of SVM, Naive Bayes and GBDT for Data Faults Detection in WSNs," in *Proceedings of IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C)*, 2018, pp. 394-399. [[link](https://ieeexplore.ieee.org/document/8432003)] <span style="color:blue">[CCF-B会议]</span>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
