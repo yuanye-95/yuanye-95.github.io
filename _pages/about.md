@@ -54,6 +54,14 @@ Yan Jiang; Guisheng Yin; **Ye Yuan** *; Jingjing Chen; Zhipeng Wei
 </div>
 </div>
 
+# :page_facing_up: Publications
+
+# 2025
+
+- Xue Zhang, Yanxia Wu*, Guoyin Zhang, **Ye Yuan**, Guangliang Cheng and Yulei Wu, "Shape-Dependent Dynamic Label Assignment for Oriented Remote Sensing Object Detection," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 132-146, 2025. [[link](https://ieeexplore.ieee.org/document/10745646/authors#authors)]
+
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
