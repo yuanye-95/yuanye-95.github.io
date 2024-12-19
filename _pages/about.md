@@ -66,6 +66,15 @@ Yan Jiang; Guisheng Yin; **Ye Yuan** *; Jingjing Chen; Zhipeng Wei
 - Yan Jiang, Guisheng Yin, **Ye Yuan**, Jingjing Chen and Zhipeng Wei, "Cross-Point Adversarial Attack Based on Feature Neighborhood Disruption Against Segment Anything Model," in Proceedings of IEEE International Conference on Multimedia and Expo (ICME), 2024, pp. 1-6. [[link](https://ieeexplore.ieee.org/document/10687491)]
 - Xu Wang, Yanxia Wu, Changting Shi*, **Ye Yuan** and Xue Zhang, "ANED-Net: Adaptive Noise Estimation and Despeckling Network for SAR Image," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 4036-4051, 2024. [[link](https://ieeexplore.ieee.org/document/10401972)]
 - Yan Jiang, Guisheng Yin, Weipeng Jing, Linda Mohaisen, Mahmoud Emam and **Ye Yuan***, "Box-Spoof Attack Against Single Object Tracking," Applied Intelligence, vol. 54, no. 2, pp. 1585-1601, 2024. [[link](https://link.springer.com/article/10.1007/s10489-023-05264-2)]
+  
+# 2023
+
+- **Ye Yuan**, Yanxia Wu*, Pengming Feng, Yan Fu and Yulei Wu, "Segmentation-Guided Semantic-Aware Self-Supervised Denoising for SAR Image," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5218416. [[link](https://ieeexplore.ieee.org/document/10285521)]
+
+# 2022
+
+- **Ye Yuan**, Yanxia Wu, Chuheng Tang, Yan Fu*, Yulei Wu, Yan Jiang and Yize Zhao, "Self-calibrated dilated convolutional neural networks for SAR image despeckling," International Journal of Remote Sensing, vol. 43, no. 17, pp. 6483-6508, 2022. [[link](https://www.tandfonline.com/doi/full/10.1080/01431161.2022.2142076)]
+- **Ye Yuan**, Jian Guan*, Pengming Feng and Yanxia Wu, "A Practical Solution for SAR Despeckling With Adversarial Learning Generated Speckled-to-Speckled Images," IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4004705. [[link](https://ieeexplore.ieee.org/document/9274511)]
 
 
 # 🎖 Honors and Awards
