@@ -42,6 +42,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2024</div><img src='images/IEEE_ICME_2024_CP-FND.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-Point Adversarial Attack Based on Feature Neighborhood Disruption Against Segment Anything Model](https://ieeexplore.ieee.org/document/10687491)
+
+Yan Jiang; Guisheng Yin; **Ye Yuan**; Jingjing Chen; Zhipeng Wei
+
+- We propose a cross-point adversarial attack method based on feature neighborhood disruption against SAM, called CP-FND attack. CP-FND aims to generate adversarial examples capable of effectively deceiving SAM under different user-specified point prompts. Specifically, CP-FND can disrupt the continuity and relevance of contextual features, thereby fooling SAM and suppressing its predicted masks.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
