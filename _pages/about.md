@@ -98,6 +98,19 @@ Yan Jiang; Guisheng Yin; **Ye Yuan** *; Jingjing Chen; Zhipeng Wei
 - *2017.09 - 2018.06*, M.S. transfer to Ph.D, College of Computer Science and Technology, Harbin Engineering University
 - *2013.09 - 2017.06*, B.S., College of Computer Science and Technology, Harbin Engineering University
 
+# 📑 Service
+Invited Reviewer for conferences:
+- 2024 IEEE International Conference on Multimedia and Expo (ICME)
+  
+Invited Reviewer for journals:
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Geoscience and Remote Sensing Letters
+- Knowledge-Based Systems
+- Signal Processing
+- Computers and Electrical Engineering
+- Computers and Electronics in Agriculture
+- International Journal of Communication Systems
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
