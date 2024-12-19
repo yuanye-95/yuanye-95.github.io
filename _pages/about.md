@@ -62,6 +62,8 @@ Yan Jiang; Guisheng Yin; **Ye Yuan** *; Jingjing Chen; Zhipeng Wei
 
 # 2024
 
+- Xu Wang, Yanxia Wu, **Ye Yuan**, Yan Fu and Xue Zhang, "Unpaired Image Despeckling Based on Adversarial Speckle Generation," in Proceedings of IEEE International Conference on Multimedia and Expo (ICME), 2024, pp. 1-6. [[link](https://ieeexplore.ieee.org/document/10687879)]
+- Yan Jiang, Guisheng Yin, **Ye Yuan**, Jingjing Chen and Zhipeng Wei, "Cross-Point Adversarial Attack Based on Feature Neighborhood Disruption Against Segment Anything Model," in Proceedings of IEEE International Conference on Multimedia and Expo (ICME), 2024, pp. 1-6. [[link](https://ieeexplore.ieee.org/document/10687491)]
 - Xu Wang, Yanxia Wu, Changting Shi*, **Ye Yuan** and Xue Zhang, "ANED-Net: Adaptive Noise Estimation and Despeckling Network for SAR Image," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 4036-4051, 2024. [[link](https://ieeexplore.ieee.org/document/10401972)]
 - Yan Jiang, Guisheng Yin, Weipeng Jing, Linda Mohaisen, Mahmoud Emam and **Ye Yuan***, "Box-Spoof Attack Against Single Object Tracking," Applied Intelligence, vol. 54, no. 2, pp. 1585-1601, 2024. [[link](https://link.springer.com/article/10.1007/s10489-023-05264-2)]
 
