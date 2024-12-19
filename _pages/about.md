@@ -96,11 +96,9 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 - Yanxia Wu\*, **Ye Yuan**, Jian Guan, Libo Yin, Jinyong Chen and Ge Zhang, "Joint Convolutional Neural Network for Small-Scale Ship Classification in SAR Images," in *Proceedings of IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2019, pp. 2619-2622. [[link](https://ieeexplore.ieee.org/document/8897831)] <span style="color:blue">[EI会议]</span>
 - **Ye Yuan**\*, Shouzheng Li, Xingjian Zhang and Jianguo Sun, "A Comparative Analysis of SVM, Naive Bayes and GBDT for Data Faults Detection in WSNs," in *Proceedings of IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C)*, 2018, pp. 394-399. [[link](https://ieeexplore.ieee.org/document/8432003)] <span style="color:blue">[CCF-B会议]</span>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📑 Service
+
+# 📑 Services
 Invited Reviewer for conferences:
 - 2024 IEEE International Conference on Multimedia and Expo (ICME)
   
@@ -113,9 +111,18 @@ Invited Reviewer for journals:
 - Computers and Electronics in Agriculture
 - International Journal of Communication Systems
 
+  
+<!--
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+-->
