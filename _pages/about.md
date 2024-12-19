@@ -96,7 +96,9 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 - Yanxia Wu\*, **Ye Yuan**, Jian Guan, Libo Yin, Jinyong Chen and Ge Zhang, "Joint Convolutional Neural Network for Small-Scale Ship Classification in SAR Images," in *Proceedings of IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2019, pp. 2619-2622. [[link](https://ieeexplore.ieee.org/document/8897831)] <span style="color:blue">[EI会议]</span>
 - **Ye Yuan**\*, Shouzheng Li, Xingjian Zhang and Jianguo Sun, "A Comparative Analysis of SVM, Naive Bayes and GBDT for Data Faults Detection in WSNs," in *Proceedings of IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C)*, 2018, pp. 394-399. [[link](https://ieeexplore.ieee.org/document/8432003)] <span style="color:blue">[CCF-B会议]</span>
 
+# 💠 Fundings
 
+- 哈尔滨工程大学-计算机科学与技术学院, 博士研究生科研创新基金, 语义感知型SAR图像自监督去噪方法研究, 2022-2023, 主持
 
 # 📑 Services
 Invited Reviewer for conferences:
