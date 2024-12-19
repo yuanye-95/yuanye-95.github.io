@@ -76,6 +76,13 @@ Yan Jiang; Guisheng Yin; **Ye Yuan** *; Jingjing Chen; Zhipeng Wei
 - **Ye Yuan**, Yanxia Wu, Chuheng Tang, Yan Fu*, Yulei Wu, Yan Jiang and Yize Zhao, "Self-calibrated dilated convolutional neural networks for SAR image despeckling," International Journal of Remote Sensing, vol. 43, no. 17, pp. 6483-6508, 2022. [[link](https://www.tandfonline.com/doi/full/10.1080/01431161.2022.2142076)]
 - **Ye Yuan**, Jian Guan*, Pengming Feng and Yanxia Wu, "A Practical Solution for SAR Despeckling With Adversarial Learning Generated Speckled-to-Speckled Images," IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 4004705. [[link](https://ieeexplore.ieee.org/document/9274511)]
 
+# 2021
+
+- **Ye Yuan**, Yan Jiang, Yanxia Wu and Richard Jiang, "Self-Calibrated Convolutional Neural Network for SAR Image Despeckling," in Proceddings of IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2021, pp. 399-402. [[link](https://ieeexplore.ieee.org/document/9554769)]
+- **Ye Yuan**, Yanxia Wu*, Yan Fu, Yulei Wu,L idan Zhang and Yan Jiang, "An Advanced SAR Image Despeckling Method by Bernoulli-Sampling-Based Self-Supervised Deep Learning," Remote Sensing, vol. 13, no. 18, pp. 3636, 2021. [[link](https://www.mdpi.com/2072-4292/13/18/3636)]
+
+# 2020 and before
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
