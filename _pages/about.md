@@ -65,7 +65,7 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 </div>
 </div>
 
-# 📄 Publications (<a href='https://scholar.google.com/citations?user=p0z29tMAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>)
+# 📄 Publications (<a href='https://scholar.google.com/citations?user=p0z29tMAAAAJ'>google scholar citations <strong><span id='total_cit'>+</span></strong></a>)
 \* Corresponding author           $\dagger$ Equal contribution
 # 2025
 
