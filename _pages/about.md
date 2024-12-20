@@ -18,8 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a Associate Professor in the College of Computer and Control Engineering, Northeast Forestry University, where I worked on deep learning-based image processing methods and vision applications for remote sensing. I received my Ph.D. from College of Computer Science and Technology, Harbin Engineering University, China in December 2023, advised by Prof. Wu Yanxia. Before that, I received my B.S. from College of Computer Science and Technology, Harbin Engineering University in June 2017.
 
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 New stage of career! I joined the College of Computer and Control Engineering at **Northeast Forestry University**!
@@ -64,7 +65,7 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 </div>
 </div>
 
-# 📄 Publications
+# 📄 Publications (<a href='https://scholar.google.com/citations?user=p0z29tMAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>)
 \* Corresponding author           $\dagger$ Equal contribution
 # 2025
 
