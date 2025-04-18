@@ -103,13 +103,16 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 
 # 📑 Services
 Invited Reviewer for conferences:
-- 2024 IEEE International Conference on Multimedia and Expo (ICME)
+- 2024,2025 IEEE International Conference on Multimedia and Expo (ICME)
   
 Invited Reviewer for journals:
 - IEEE Transactions on Geoscience and Remote Sensing
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- International Journal of Applied Earth Observation and Geoinformation
 - IEEE Geoscience and Remote Sensing Letters
 - Knowledge-Based Systems
 - Signal Processing
+- Pattern recognition letters
 - Computers and Electrical Engineering
 - Computers and Electronics in Agriculture
 - International Journal of Communication Systems
