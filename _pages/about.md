@@ -24,6 +24,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 New stage of career! I joined the College of Computer and Control Engineering at **Northeast Forestry University**!
+- *2025.06*: &nbsp;🎉🎉 One journal paper about unsupervised SAR despeckling has been accepted by **IEEE JSTARS** ([link](https://ieeexplore.ieee.org/document/11036683))!
 - *2024.10*: &nbsp;🎉🎉 One journal paper about oriented remote sensing object detection has been accepted by **IEEE JSTARS** ([link](https://ieeexplore.ieee.org/document/10745646))!
 - *2024.04*: &nbsp;🎉🎉 One conference paper about unpaired image despeckling has been accepted by **IEEE ICME 2024** ([link](https://ieeexplore.ieee.org/document/10687879))!
 - *2024.04*: &nbsp;🎉🎉 One conference paper about adversarial attack for SAM has been accepted by **IEEE ICME 2024** ([link](https://ieeexplore.ieee.org/document/10687491))!
@@ -69,6 +70,7 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 \* Corresponding author           $\dagger$ Equal contribution
 # 2025
 
+- Xu Wang$\dagger$, Yanxia Wu$\dagger$, **Ye Yuan**\*, Guangliang Cheng and Yulei Wu, "SAR-ASGOUT: Adversarial Speckle Generation and Offline Unpaired Training for Unsupervised SAR Despeckling," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025. [[link](https://ieeexplore.ieee.org/document/11036683/authors#authors)] <span style="color:blue">[JCR Q1, 中科院二区 Top, IF: 4.7]</span>
 - Xue Zhang$\dagger$, Yanxia Wu$\dagger$, Guoyin Zhang, **Ye Yuan**\*, Guangliang Cheng and Yulei Wu, "Shape-Dependent Dynamic Label Assignment for Oriented Remote Sensing Object Detection," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 18, pp. 132-146, 2025. [[link](https://ieeexplore.ieee.org/document/10745646/authors#authors)] <span style="color:blue">[JCR Q1, 中科院二区 Top, IF: 4.7]</span>
 
 # 2024
