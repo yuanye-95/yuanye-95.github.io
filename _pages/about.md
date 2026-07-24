@@ -74,7 +74,7 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 
 # 2026
 - Weipeng Jing, Linkang Geng, Ye Yuan, Guangliang Cheng, Fangyu Sun, **Chao Li**\*, "PromptHSI-CD: a land-cover category prompt-guided method for hyperspectral change detection," *IEEE Transactions on Geoscience and Remote Sensing*, 2026. [[link](https://ieeexplore.ieee.org/abstract/document/11611252)] <span style="color:blue">[JCR Q1, 中科院一区, CCF-B, IF: 7.5]</span>
-- Chao Li, Shijie Wang, Wenjun Zhang, Ying Quan, Yuan Zhou, Guofan Shao, Ye Yuan, **Weipeng Jing**\*, "Disentangling Complex Forest Canopies Using MS3Mamba with Hierarchical HSI-LiDAR Fusion for Robust Tree Species Classificationn," *IEEE Transactions on Geoscience and Remote Sensing*, 2026. [[link](https://ieeexplore.ieee.org/abstract/document/11614039)] <span style="color:blue">[JCR Q1, 中科院一区, CCF-B, IF: 7.5]</span>
+- Chao Li, Shijie Wang, Wenjun Zhang, Ying Quan, Yuan Zhou, Guofan Shao, **Ye Yuan**\*, Weipeng Jing, "Disentangling Complex Forest Canopies Using MS3Mamba with Hierarchical HSI-LiDAR Fusion for Robust Tree Species Classificationn," *IEEE Transactions on Geoscience and Remote Sensing*, 2026. [[link](https://ieeexplore.ieee.org/abstract/document/11614039)] <span style="color:blue">[JCR Q1, 中科院一区, CCF-B, IF: 7.5]</span>
 
 
 # 2025
