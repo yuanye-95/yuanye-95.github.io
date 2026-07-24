@@ -24,6 +24,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 New stage of career! I joined the College of Computer and Control Engineering at **Northeast Forestry University**!
+- *2026.07*: &nbsp;🎉🎉 One journal paper about remote sensing change detection has been accepted by **IEEE TGRS** ([link](https://ieeexplore.ieee.org/document/11611252))!
+- *2026.07*: &nbsp;🎉🎉 One journal paper about remote sensing tree species classification has been accepted by **IEEE TGRS** ([link](https://ieeexplore.ieee.org/document/11614039))!
 - *2025.08*: &nbsp;🎉🎉 One journal paper about multimodal remote sensing semantic segmentation has been accepted by **GIScience & Remote Sensing** ([link](https://ieeexplore.ieee.org/document/11036683))!
 - *2025.06*: &nbsp;🎉🎉 One journal paper about unsupervised SAR despeckling has been accepted by **IEEE JSTARS** ([link](https://ieeexplore.ieee.org/document/11036683))!
 - *2024.10*: &nbsp;🎉🎉 One journal paper about oriented remote sensing object detection has been accepted by **IEEE JSTARS** ([link](https://ieeexplore.ieee.org/document/10745646))!
@@ -69,6 +71,12 @@ Yan Jiang; Guisheng Yin; **Ye Yuan**\*; Jingjing Chen; Zhipeng Wei
 
 # 📄 Publications (<a href='https://scholar.google.com/citations?user=p0z29tMAAAAJ'>google scholar citations <strong><span id='total_cit'>+</span></strong></a>)
 \* Corresponding author           $\dagger$ Equal contribution
+
+# 2026
+- Weipeng Jing, Linkang Geng, Ye Yuan, Guangliang Cheng, Fangyu Sun, **Chao Li**\*, "PromptHSI-CD: a land-cover category prompt-guided method for hyperspectral change detection," *IEEE Transactions on Geoscience and Remote Sensing*, 2026. [[link](https://ieeexplore.ieee.org/abstract/document/11611252)] <span style="color:blue">[JCR Q1, 中科院一区, CCF-B, IF: 7.5]</span>
+- Chao Li, Shijie Wang, Wenjun Zhang, Ying Quan, Yuan Zhou, Guofan Shao, Ye Yuan, **Weipeng Jing**\*, "Disentangling Complex Forest Canopies Using MS3Mamba with Hierarchical HSI-LiDAR Fusion for Robust Tree Species Classificationn," *IEEE Transactions on Geoscience and Remote Sensing*, 2026. [[link](https://ieeexplore.ieee.org/abstract/document/11614039)] <span style="color:blue">[JCR Q1, 中科院一区, CCF-B, IF: 7.5]</span>
+
+
 # 2025
 
 - Chao Li, Haitao Lyu, Weipeng Jing, **Ye Yuan**\*, Guangliang Cheng, "MFFNet: a wavelet transform-based multimodal frequency fusion network for remote sensing semantic segmentation," *GIScience & Remote Sensing*, 2025. [[link](https://www.tandfonline.com/doi/full/10.1080/15481603.2025.2534740)] <span style="color:blue">[JCR Q1, 中科院一区 Top, IF: 6.9]</span>
